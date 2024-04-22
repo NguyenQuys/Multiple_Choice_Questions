@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TestDACS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4180f7809cdf2b0d5f5df6642e641249200d3372")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8f1d4ba54528f37a7fb00f927bd186b6a86439fc")]
 [assembly: System.Reflection.AssemblyProductAttribute("TestDACS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TestDACS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

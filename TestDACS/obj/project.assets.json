@@ -8637,11 +8637,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\LTWeb\\TestDACS\\TestDACS\\TestDACS.csproj",
+      "projectUniqueName": "D:\\LTWeb\\TestDACS\\Multiple_Choice_Questions\\TestDACS\\TestDACS.csproj",
       "projectName": "TestDACS",
-      "projectPath": "D:\\LTWeb\\TestDACS\\TestDACS\\TestDACS.csproj",
+      "projectPath": "D:\\LTWeb\\TestDACS\\Multiple_Choice_Questions\\TestDACS\\TestDACS.csproj",
       "packagesPath": "C:\\Users\\Tuan\\.nuget\\packages\\",
-      "outputPath": "D:\\LTWeb\\TestDACS\\TestDACS\\obj\\",
+      "outputPath": "D:\\LTWeb\\TestDACS\\Multiple_Choice_Questions\\TestDACS\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
