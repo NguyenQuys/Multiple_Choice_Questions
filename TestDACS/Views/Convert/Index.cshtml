@@ -1,0 +1,40 @@
+﻿@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Text to Image</h1>
+
+<textarea id="txtContent" rows="4" cols="50"></textarea>
+<button id="btnClick">Click Here</button>
+
+<br />
+<img id="imgPreview" />
+
+@section Scripts {
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script type="text/javascript">
+        $(function () {
+            // Hàm xử lý sự kiện khi trang đã được tải hoàn thành
+            $("#btnClick").click(function () {
+                // Lấy nội dung của textarea
+                var text = $("#txtContent").val();
+                // Tạo đối tượng chứa dữ liệu cần gửi đi
+                var dataObject = { text: text };
+                // Gửi yêu cầu AJAX tới action GetText của controller Convert
+                $.ajax({
+                    url: '/Convert/GetText', // Địa chỉ URL của action GetText
+                    data: JSON.stringify(dataObject), // Chuyển đổi đối tượng thành chuỗi JSON
+                    type: "POST", // Phương thức gửi yêu cầu là POST
+                    contentType: 'application/json', // Định dạng dữ liệu gửi đi là JSON
+                    dataType: 'json', // Kiểu dữ liệu phản hồi từ server là JSON
+                    success: function (result) { // Hàm xử lý kết quả trả về từ server
+                        $("#imgPreview").attr("src", result); // Hiển thị hình ảnh trên trang
+                    },
+                    error: function (xhr, status, error) { // Hàm xử lý lỗi nếu có
+                        console.error("Error:", error); // Log lỗi ra console
+                    }
+                });
+            });
+        });
+    </script>
+}
