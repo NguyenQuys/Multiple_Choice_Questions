@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{0B960DFA-1F82-4047-A45D-5896B79D4A17}|https">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.CountDownTimer PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CountDownTimer/Views/Timer/Index.cshtml">
+    <Files>
+      <File FileName="CountDownTimer/Controllers/TimerController.cs" Line="29" Column="27" />
+      <File FileName="CountDownTimer/Models/TimerModels.cs" Line="10" Column="1" />
+      <File FileName="CountDownTimer/Views/Timer/Index.cshtml" Line="30" Column="21" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CountDownTimer" expanded="True">
+            <Node name="CountDownTimer" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Timer" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

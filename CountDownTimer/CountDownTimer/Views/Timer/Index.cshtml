@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Countdown Timer</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <style>
+        #countdown-container {
+            position: fixed;
+            top: 50px; /* Đặt cách đỉnh màn hình là 10px */
+            right: 50px; /* Đặt cách bên phải màn hình là 10px */
+            background-color: #f0f0f0; /* Màu nền của khung */
+            padding: 10px; /* Khoảng cách giữa nội dung và viền khung */
+            border: 1px solid #ccc; /* Viền của khung */
+            border-radius: 5px; /* Bo tròn các góc của khung */
+            font-size: 24px; /* Cỡ chữ */
+        }
+    </style>
+</head>
+<body>
+    <div id="countdown-container">
+        <span id="lblTimer"></span>
+    </div>
+
+    <script>$(document).ready(function () {
+            updateTimer(); // Gọi hàm một lần khi trang được tải lần đầu
+            setInterval(updateTimer, 1000); // Gọi hàm mỗi giây
+        });
+
+        function updateTimer() {
+            $.ajax({
+                type: "POST",
+                url: "/Timer/TimerTick",
+                success: function (data) {
+                    // Hiển thị số giờ, phút và giây còn lại
+                    var remainingTime = data;
+                    var hours = remainingTime.hours < 10 ? '0' + remainingTime.hours : remainingTime.hours;
+                    var minutes = remainingTime.minutes < 10 ? '0' + remainingTime.minutes : remainingTime.minutes;
+                    var seconds = remainingTime.seconds < 10 ? '0' + remainingTime.seconds : remainingTime.seconds;
+                    $('#lblTimer').text(hours + ":" + minutes + ":" + seconds);
+                },
+                error: function (xhr, status, error) {
+                    console.error(xhr.responseText);
+                }
+            });
+        }</script>
+</body>
+</html>
