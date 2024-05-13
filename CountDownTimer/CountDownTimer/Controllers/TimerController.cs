@@ -19,10 +19,10 @@ namespace CountDownTimer.Controllers
 
         public IActionResult Index()
         {
-            // Kiểm tra nếu yêu cầu không phải là Ajax request.
-            if (!HttpContext.Request.Headers["X-Requested-With"].ToString().Equals("XMLHttpRequest", StringComparison.OrdinalIgnoreCase))
+            // Kiểm tra nếu yêu cầu không phải là Ajax request và không có thời gian kết thúc trong Session.
+            if (!HttpContext.Request.Headers["X-Requested-With"].ToString().Equals("XMLHttpRequest", StringComparison.OrdinalIgnoreCase) && string.IsNullOrEmpty(HttpContext.Session.GetString("timeout")))
             {
-                // Nếu không phải là Ajax request, lưu giá trị thời gian kết thúc vào session.
+                // Lưu giá trị thời gian kết thúc vào Session.
                 HttpContext.Session.SetString("timeout", _timerModel.Timeout.ToString());
             }
             // Trả về view.
@@ -33,7 +33,12 @@ namespace CountDownTimer.Controllers
         public IActionResult TimerTick()
         {
             var remainingTime = _timerModel.GetRemainingTime(HttpContext.Session);
+            if (remainingTime.hours == 0 && remainingTime.minutes == 0 && remainingTime.seconds == 0)
+            {
+                return Json(new { hours = 0, minutes = 0, seconds = 0 });
+            }
             return Json(new { hours = remainingTime.hours, minutes = remainingTime.minutes, seconds = remainingTime.seconds });
         }
+
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/anhtuan/Documents/LTWeb/CountDownTimer/CountDownTimer/CountDownTimer.csproj": {}
+    "/Users/anhtuan/Documents/Tuan/Multiple_Choice_Questions/CountDownTimer/CountDownTimer/CountDownTimer.csproj": {}
   },
   "projects": {
-    "/Users/anhtuan/Documents/LTWeb/CountDownTimer/CountDownTimer/CountDownTimer.csproj": {
+    "/Users/anhtuan/Documents/Tuan/Multiple_Choice_Questions/CountDownTimer/CountDownTimer/CountDownTimer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/anhtuan/Documents/LTWeb/CountDownTimer/CountDownTimer/CountDownTimer.csproj",
+        "projectUniqueName": "/Users/anhtuan/Documents/Tuan/Multiple_Choice_Questions/CountDownTimer/CountDownTimer/CountDownTimer.csproj",
         "projectName": "CountDownTimer",
-        "projectPath": "/Users/anhtuan/Documents/LTWeb/CountDownTimer/CountDownTimer/CountDownTimer.csproj",
+        "projectPath": "/Users/anhtuan/Documents/Tuan/Multiple_Choice_Questions/CountDownTimer/CountDownTimer/CountDownTimer.csproj",
         "packagesPath": "/Users/anhtuan/.nuget/packages/",
-        "outputPath": "/Users/anhtuan/Documents/LTWeb/CountDownTimer/CountDownTimer/obj/",
+        "outputPath": "/Users/anhtuan/Documents/Tuan/Multiple_Choice_Questions/CountDownTimer/CountDownTimer/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/anhtuan/.nuget/NuGet/NuGet.Config"

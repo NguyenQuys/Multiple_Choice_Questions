@@ -6,7 +6,7 @@ namespace CountDownTimer.Models
     public class TimerModel
     {
         // Định nghĩa thuộc tính Timeout để lưu thời gian kết thúc của đồng hồ đếm ngược.
-        public DateTime Timeout { get; } = DateTime.Now.AddMinutes(2);
+        public DateTime Timeout { get; } = DateTime.Now.AddMinutes(1);
 
 
         // Định nghĩa phương thức GetRemainingTime để tính toán thời gian còn lại của đồng hồ đếm ngược.

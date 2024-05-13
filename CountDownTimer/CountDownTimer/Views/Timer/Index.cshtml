@@ -6,8 +6,8 @@
     <style>
         #countdown-container {
             position: fixed;
-            top: 50px; /* Đặt cách đỉnh màn hình là 10px */
-            right: 50px; /* Đặt cách bên phải màn hình là 10px */
+            top: 80px; 
+            right: 80px; 
             background-color: #f0f0f0; /* Màu nền của khung */
             padding: 10px; /* Khoảng cách giữa nội dung và viền khung */
             border: 1px solid #ccc; /* Viền của khung */
@@ -22,9 +22,25 @@
     </div>
 
     <script>$(document).ready(function () {
-            updateTimer(); // Gọi hàm một lần khi trang được tải lần đầu
-            setInterval(updateTimer, 1000); // Gọi hàm mỗi giây
+            // Hàm này được gọi khi trang được tải lần đầu
+            getInitialTimer();
+            // Gọi hàm updateTimer để cập nhật thời gian mỗi giây
+            setInterval(updateTimer, 1000);
         });
+
+        function getInitialTimer() {
+            $.ajax({
+                type: "GET", // Sử dụng phương thức GET để lấy thời gian ban đầu từ máy chủ
+                url: "/Timer/InitialTime", // Đổi URL này thành URL thích hợp
+                success: function (data) {
+                    // Hiển thị thời gian ban đầu
+                    displayTimer(data);
+                },
+                error: function (xhr, status, error) {
+                    console.error(xhr.responseText);
+                }
+            });
+        }
 
         function updateTimer() {
             $.ajax({
@@ -32,16 +48,31 @@
                 url: "/Timer/TimerTick",
                 success: function (data) {
                     // Hiển thị số giờ, phút và giây còn lại
-                    var remainingTime = data;
-                    var hours = remainingTime.hours < 10 ? '0' + remainingTime.hours : remainingTime.hours;
-                    var minutes = remainingTime.minutes < 10 ? '0' + remainingTime.minutes : remainingTime.minutes;
-                    var seconds = remainingTime.seconds < 10 ? '0' + remainingTime.seconds : remainingTime.seconds;
-                    $('#lblTimer').text(hours + ":" + minutes + ":" + seconds);
+                    displayTimer(data);
                 },
                 error: function (xhr, status, error) {
                     console.error(xhr.responseText);
                 }
             });
-        }</script>
+        }
+
+        function displayTimer(remainingTime) {
+            var hours = remainingTime.hours < 10 ? '0' + remainingTime.hours : remainingTime.hours;
+            var minutes = remainingTime.minutes < 10 ? '0' + remainingTime.minutes : remainingTime.minutes;
+            var seconds = remainingTime.seconds < 10 ? '0' + remainingTime.seconds : remainingTime.seconds;
+
+            if (remainingTime.hours == 0 && remainingTime.minutes == 0 && remainingTime.seconds == 0) {
+                $('#lblTimer').text("Hết giờ");
+                // Tự động chuyển hướng hoặc thoát khỏi trang
+                setTimeout(function () {
+                    // Điều hướng đến một trang khác (ví dụ: trang chính của trang web)
+                    window.location.href = '/Home/Index';
+                    
+                }, 5000); // Sau 5 giây
+            } else {
+                $('#lblTimer').text(hours + ":" + minutes + ":" + seconds);
+            }
+        }
+</script>
 </body>
 </html>
