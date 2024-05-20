@@ -1,0 +1,38 @@
+﻿
+    <div id="countdown-container">
+        <span id="lblTimer"></span>
+    </div>
+
+<script>
+    $(document).ready(function () {
+        // Gọi hàm một lần khi trang được tải lần đầu
+        updateTimer();
+        // Gọi hàm mỗi giây
+        setInterval(updateTimer, 1000);
+    });
+
+    function updateTimer() {
+        $.ajax({
+            type: "POST",
+            url: "/Home/TimerTick",
+            success: function (data) {
+                // Hiển thị số giờ, phút và giây còn lại
+                var remainingTime = data;
+                var hours = remainingTime.hours < 10 ? '0' + remainingTime.hours : remainingTime.hours;
+                var minutes = remainingTime.minutes < 10 ? '0' + remainingTime.minutes : remainingTime.minutes;
+                var seconds = remainingTime.seconds < 10 ? '0' + remainingTime.seconds : remainingTime.seconds;
+                $('#lblTimer').text(hours + ":" + minutes + ":" + seconds);
+
+                // Kiểm tra nếu thời gian còn lại là 0, chuyển hướng đến controller "BBB"
+                if (remainingTime.hours == 0 && remainingTime.minutes == 0 && remainingTime.seconds == 0) {
+                    window.location.href = '/Home/Result';
+                }
+            },
+            error: function (xhr, status, error) {
+                console.error(xhr.responseText);
+            }
+        });
+    }
+</script>
+
+

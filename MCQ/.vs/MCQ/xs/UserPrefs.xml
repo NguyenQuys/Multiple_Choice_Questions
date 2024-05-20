@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{AF89D60E-C4AC-4DA3-BAE5-C07F9E134CBA}|https">
+  <MonoDevelop.Ide.ItemProperties.MCQ PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Views/Home/Exam.cshtml">
+    <Files>
+      <File FileName="appsettings.json" />
+      <File FileName="Program.cs" />
+      <File FileName="Models/McqContext.cs" />
+      <File FileName="Controllers/HomeController.cs" Line="351" Column="10" />
+      <File FileName="Views/Home/Exam.cshtml" Line="41" Column="6" />
+      <File FileName="Views/Home/Result.cshtml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MCQ" expanded="True">
+            <Node name="MCQ">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True">
+                  <Node name="Exam.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

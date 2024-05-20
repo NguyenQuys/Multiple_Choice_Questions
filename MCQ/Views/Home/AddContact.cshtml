@@ -1,0 +1,36 @@
+﻿@model MCQ.Models.Contact
+@using Microsoft.AspNetCore.Mvc.Rendering
+@{
+    ViewData["Title"] = "Liên hệ";
+}
+
+@section OrangeArea
+{
+    <div>
+        <header style="height:0vh" id="fh5co-header" class="fh5co-cover" role="banner" data-stellar-background-ratio="0.5">
+            <div style="height:15vh;background-color:lightsalmon" class="overlay"></div>
+        </header>
+    </div>
+}
+<div style="margin-top:100px">
+    <h2>Liên hệ</h2>
+    <form asp-action="AddContact" method="post" enctype="multipart/form-data">
+        <div class="form-group">
+            <label asp-for="IdUser">Mã sinh viên</label>
+            <input asp-for="IdUser" class="form-control" required />
+            <span asp-validation-for="IdUser" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Title">Tiêu đề</label>
+            <input asp-for="Title" class="form-control" required />
+            <span asp-validation-for="Title" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Content">Nội dung</label>
+            <input asp-for="Content" class="form-control" required />
+            <span asp-validation-for="Content" class="text-danger"></span>
+        </div>
+        <button type="submit" class="btn btn-primary">Gửi</button>
+        <a asp-action="Index" type="button" class="btn btn-primary">Quay về</a>
+    </form>
+</div>

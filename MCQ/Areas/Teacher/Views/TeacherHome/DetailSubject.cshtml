@@ -1,0 +1,158 @@
+﻿@model MCQ.Areas.Teacher.ViewModel.DetailViewModel
+@{
+    ViewData["Title"] = " - Xem chi tiết câu hỏi";
+    Layout = "~/Areas/Teacher/Views/Shared/_LayoutTeacher.cshtml";
+}
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+<style>
+    table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+
+    th, td {
+        border: 1px solid black;
+        padding: 8px;
+        text-align: left;
+    }
+
+    th {
+        background-color: lightgrey;
+    }
+</style>
+<div>
+    <h4>Câu hỏi</h4>
+    <hr />
+    <dl style="text-align:center" class="row">
+        <h1>@Model.IdSubject</h1>
+    </dl>
+
+    <h3 class="m-3" style="text-align:center">Câu hỏi ở mức độ <span style="color:blue" class="h3">1</span> </h3>
+    <table style="width:100%">
+        <tr>
+            <th style="text-align:center">STT</th>
+            <th style="text-align:center">Câu hỏi</th>
+            <th colspan="4" style="text-align:center">Đáp án</th>
+        </tr>
+        @for (int i = 0; i < Model.questionLevel1.Count(); i++)
+        {
+            
+            <tr>
+                <td style="padding-left:10px">
+                    <p>@(i+1)</p>
+                </td>
+                <td style="padding-left:10px; background-color:bisque">
+                    @Model.questionLevel1[i].Title
+                </td>
+                @{
+                    int startLevel1 = i * 4;
+                    int endLevel1 = (i + 1) * 4;
+                 
+                    for (int j = startLevel1; j < endLevel1; j++)
+                    {
+                        @if (Model.ListAnswer[j].Key == true)
+                        {
+                            <td style="padding-left:10px; background-color:red">
+                                @Model.ListAnswer[j].AnswerTitle
+                            </td>
+                        }
+                        else
+                        {
+                            <td style="padding-left:10pxd">
+                                @Model.ListAnswer[j].AnswerTitle
+                            </td>
+                        }
+                    }
+                }
+            </tr>
+
+        }
+    </table>
+
+    <h3 class="m-3" style="text-align:center">Câu hỏi ở mức độ <span style="color:blue" class="h3">2</span> </h3>
+    <table style="width:100%">
+        <tr>
+            <th style="text-align:center">STT</th>
+            <th style="text-align:center">Câu hỏi</th>
+            <th colspan="4" style="text-align:center">Đáp án</th>
+        </tr>
+        @for (int i = Model.questionLevel1.Count(); i < Model.questionLevel1.Count() + Model.questionLevel2.Count(); i++)
+        {
+            <tr>
+                <td style="padding-left:10px">
+                    <p>@(i - Model.questionLevel1.Count() + 1)</p>
+                </td>
+                <td style="padding-left:10px; background-color:bisque">
+                    @Model.questionLevel2[i - Model.questionLevel1.Count()].Title
+                </td>
+                @{
+                    int startLevel2 = i * 4;
+                    int endLevel2 = (i + 1) * 4;
+
+                    for (int j = startLevel2; j < endLevel2; j++)
+                    {
+                        @if (Model.ListAnswer[j].Key == true)
+                        {
+                            <td style="padding-left:10px; background-color:red">
+                                @Model.ListAnswer[j].AnswerTitle
+                            </td>
+                        }
+                        else
+                        {
+                            <td style="padding-left:10pxd">
+                                @Model.ListAnswer[j].AnswerTitle
+                            </td>
+                        }
+                    }
+                }
+            </tr>
+        }
+    </table>
+
+    <h3 class="m-3" style="text-align:center">Câu hỏi ở mức độ <span style="color:blue" class="h3">3</span> </h3>
+    <table style="width:100%">
+        <tr>
+            <th style="text-align:center">STT</th>
+            <th style="text-align:center">Câu hỏi</th>
+            <th colspan="4" style="text-align:center">Đáp án</th>
+        </tr>
+        @for (int i = Model.questionLevel1.Count() + Model.questionLevel2.Count(); i < Model.questionLevel1.Count() + Model.questionLevel2.Count() + Model.questionLevel3.Count(); i++)
+        {
+
+            <tr>
+                <td style="padding-left:10px">
+                    <p>@(i - (Model.questionLevel1.Count() + Model.questionLevel2.Count()) + 1)</p>
+                </td>
+                <td style="padding-left:10px; background-color:bisque">
+                    @Model.questionLevel3[i - (Model.questionLevel1.Count() + Model.questionLevel2.Count())].Title
+                </td>
+                @{
+                    int startLevel2 = i * 4;
+                    int endLevel2 = (i + 1) * 4;
+
+                    for (int j = startLevel2; j < endLevel2; j++)
+                    {
+                        @if (Model.ListAnswer[j].Key == true)
+                        {
+                            <td style="padding-left:10px; background-color:red">
+                                @Model.ListAnswer[j].AnswerTitle
+                            </td>
+                        }
+                        else
+                        {
+                            <td style="padding-left:10pxd">
+                                @Model.ListAnswer[j].AnswerTitle
+                            </td>
+                        }
+                    }
+                }
+            </tr>
+        }
+    </table>
+
+</div>
+<div class="mt-3">
+    <a class="btn btn-primary" asp-action="EditSubject" asp-route-idSubject="@Model.IdSubject">Chỉnh sửa câu hỏi</a>
+    <a class="btn btn-primary" asp-action="DeleteQuestion" asp-route-idSubject="@Model.IdSubject">Xóa câu hỏi</a>
+    <a class="btn btn-primary" href="javascript:history.back()">Quay về</a>
+</div>

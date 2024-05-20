@@ -1,0 +1,39 @@
+﻿@model IEnumerable<MCQ.Models.Subject>
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+@section OrangeArea
+{
+    <div>
+        <header style="height:0" id="fh5co-header" class="fh5co-cover" role="banner" data-stellar-background-ratio="0.5">
+            <div style="height:15vh;background-color:lightsalmon" class="overlay"></div>
+        </header>
+    </div>
+}
+<div style="margin-top:100px">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    <p>Bài kiểm tra</p>
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.SubjectName)
+                    </td>
+                    <td>
+                        <a asp-action="Exam" class="btn btn-primary" asp-route-IdSubject="@item.IdSubject">Kiểm tra</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

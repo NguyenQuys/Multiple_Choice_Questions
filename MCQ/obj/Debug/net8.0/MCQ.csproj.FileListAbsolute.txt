@@ -1,0 +1,1017 @@
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/appsettings.Development.json
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/appsettings.json
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/MCQ.staticwebassets.runtime.json
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/MCQ.exe
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/MCQ.deps.json
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/MCQ.runtimeconfig.json
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/MCQ.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/MCQ.pdb
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/Humanizer.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/Microsoft.AspNetCore.Razor.Language.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/Microsoft.Build.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/Microsoft.Build.Framework.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Features.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/Microsoft.CodeAnalysis.Elfie.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/Microsoft.CodeAnalysis.Features.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/Microsoft.CodeAnalysis.Razor.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/Microsoft.CodeAnalysis.Scripting.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/Microsoft.DiaSymReader.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/Microsoft.DotNet.Scaffolding.Shared.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/Microsoft.NET.StringTools.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/dotnet-aspnet-codegenerator-design.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/Mono.TextTemplating.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/Newtonsoft.Json.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/NuGet.Common.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/NuGet.Configuration.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/NuGet.DependencyResolver.Core.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/NuGet.Frameworks.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/NuGet.LibraryModel.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/NuGet.Packaging.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/NuGet.ProjectModel.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/NuGet.Protocol.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/NuGet.Versioning.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/System.CodeDom.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/System.Composition.Convention.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/System.Composition.Hosting.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/System.Composition.Runtime.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/System.Composition.TypedParts.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/System.Drawing.Common.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/System.Reflection.MetadataLoadContext.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/System.Security.Permissions.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/System.Windows.Extensions.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/af/Humanizer.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/ar/Humanizer.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/az/Humanizer.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/bg/Humanizer.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/bn-BD/Humanizer.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/cs/Humanizer.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/da/Humanizer.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/de/Humanizer.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/el/Humanizer.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/es/Humanizer.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/fa/Humanizer.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/fi-FI/Humanizer.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/fr/Humanizer.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/fr-BE/Humanizer.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/he/Humanizer.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/hr/Humanizer.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/hu/Humanizer.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/hy/Humanizer.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/id/Humanizer.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/is/Humanizer.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/it/Humanizer.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/ja/Humanizer.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/ko-KR/Humanizer.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/ku/Humanizer.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/lv/Humanizer.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/ms-MY/Humanizer.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/mt/Humanizer.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/nb/Humanizer.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/nb-NO/Humanizer.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/nl/Humanizer.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/pl/Humanizer.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/pt/Humanizer.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/ro/Humanizer.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/ru/Humanizer.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/sk/Humanizer.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/sl/Humanizer.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/sr/Humanizer.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/sr-Latn/Humanizer.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/sv/Humanizer.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/th-TH/Humanizer.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/tr/Humanizer.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/uk/Humanizer.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/uz-Cyrl-UZ/Humanizer.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/uz-Latn-UZ/Humanizer.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/vi/Humanizer.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/zh-CN/Humanizer.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/zh-Hans/Humanizer.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/zh-Hant/Humanizer.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Features.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Features.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Features.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Features.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Features.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Features.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Features.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Features.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Features.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Features.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Features.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Features.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Features.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/runtimes/win/lib/net7.0/Microsoft.Win32.SystemEvents.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Drawing.Common.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Security.Cryptography.ProtectedData.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Windows.Extensions.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/obj/Debug/net8.0/MCQ.csproj.AssemblyReference.cache
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/obj/Debug/net8.0/MCQ.GeneratedMSBuildEditorConfig.editorconfig
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/obj/Debug/net8.0/MCQ.AssemblyInfoInputs.cache
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/obj/Debug/net8.0/MCQ.AssemblyInfo.cs
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/obj/Debug/net8.0/MCQ.csproj.CoreCompileInputs.cache
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/obj/Debug/net8.0/MCQ.MvcApplicationPartsAssemblyInfo.cache
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/obj/Debug/net8.0/MCQ.RazorAssemblyInfo.cache
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/obj/Debug/net8.0/MCQ.RazorAssemblyInfo.cs
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/obj/Debug/net8.0/staticwebassets.build.json
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/obj/Debug/net8.0/staticwebassets.development.json
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/obj/Debug/net8.0/staticwebassets/msbuild.MCQ.Microsoft.AspNetCore.StaticWebAssets.props
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/obj/Debug/net8.0/staticwebassets/msbuild.build.MCQ.props
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MCQ.props
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MCQ.props
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/obj/Debug/net8.0/staticwebassets.pack.json
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/obj/Debug/net8.0/scopedcss/bundle/MCQ.styles.css
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/obj/Debug/net8.0/scopedcss/projectbundle/MCQ.bundle.scp.css
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/obj/Debug/net8.0/MCQ.csproj.Up2Date
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/obj/Debug/net8.0/MCQ.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/obj/Debug/net8.0/refint/MCQ.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/obj/Debug/net8.0/MCQ.pdb
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/obj/Debug/net8.0/MCQ.genruntimeconfig.cache
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/obj/Debug/net8.0/ref/MCQ.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/Azure.Core.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/Azure.Identity.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/System.Memory.Data.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/System.Runtime.Caching.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Data/Programming/Project/Đồ án cơ sở (MCQ)/MCQ/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/appsettings.Development.json
+D:/testMCQ/MCQ/bin/Debug/net8.0/appsettings.json
+D:/testMCQ/MCQ/bin/Debug/net8.0/MCQ.staticwebassets.runtime.json
+D:/testMCQ/MCQ/bin/Debug/net8.0/MCQ.exe
+D:/testMCQ/MCQ/bin/Debug/net8.0/MCQ.deps.json
+D:/testMCQ/MCQ/bin/Debug/net8.0/MCQ.runtimeconfig.json
+D:/testMCQ/MCQ/bin/Debug/net8.0/MCQ.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/MCQ.pdb
+D:/testMCQ/MCQ/bin/Debug/net8.0/Azure.Core.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/Azure.Identity.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/Humanizer.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/Microsoft.AspNetCore.Razor.Language.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/Microsoft.Build.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/Microsoft.Build.Framework.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Features.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/Microsoft.CodeAnalysis.Elfie.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/Microsoft.CodeAnalysis.Features.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/Microsoft.CodeAnalysis.Razor.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/Microsoft.CodeAnalysis.Scripting.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/Microsoft.DiaSymReader.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/Microsoft.DotNet.Scaffolding.Shared.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/Microsoft.NET.StringTools.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/dotnet-aspnet-codegenerator-design.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/Mono.TextTemplating.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/Newtonsoft.Json.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/NuGet.Common.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/NuGet.Configuration.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/NuGet.DependencyResolver.Core.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/NuGet.Frameworks.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/NuGet.LibraryModel.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/NuGet.Packaging.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/NuGet.ProjectModel.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/NuGet.Protocol.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/NuGet.Versioning.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/System.CodeDom.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/System.Composition.Convention.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/System.Composition.Hosting.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/System.Composition.Runtime.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/System.Composition.TypedParts.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/System.Drawing.Common.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/System.Memory.Data.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/System.Reflection.MetadataLoadContext.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/System.Runtime.Caching.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/System.Security.Permissions.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/System.Windows.Extensions.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/af/Humanizer.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/ar/Humanizer.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/az/Humanizer.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/bg/Humanizer.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/bn-BD/Humanizer.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/cs/Humanizer.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/da/Humanizer.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/de/Humanizer.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/el/Humanizer.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/es/Humanizer.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/fa/Humanizer.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/fi-FI/Humanizer.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/fr/Humanizer.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/fr-BE/Humanizer.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/he/Humanizer.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/hr/Humanizer.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/hu/Humanizer.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/hy/Humanizer.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/id/Humanizer.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/is/Humanizer.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/it/Humanizer.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/ja/Humanizer.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/ko-KR/Humanizer.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/ku/Humanizer.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/lv/Humanizer.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/ms-MY/Humanizer.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/mt/Humanizer.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/nb/Humanizer.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/nb-NO/Humanizer.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/nl/Humanizer.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/pl/Humanizer.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/pt/Humanizer.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/ro/Humanizer.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/ru/Humanizer.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/sk/Humanizer.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/sl/Humanizer.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/sr/Humanizer.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/sr-Latn/Humanizer.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/sv/Humanizer.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/th-TH/Humanizer.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/tr/Humanizer.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/uk/Humanizer.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/uz-Cyrl-UZ/Humanizer.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/uz-Latn-UZ/Humanizer.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/vi/Humanizer.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/zh-CN/Humanizer.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/zh-Hans/Humanizer.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/zh-Hant/Humanizer.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Features.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Features.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Features.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Features.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Features.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Features.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Features.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Features.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Features.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Features.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Features.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Features.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Features.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/runtimes/win/lib/net7.0/Microsoft.Win32.SystemEvents.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Drawing.Common.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Security.Cryptography.ProtectedData.dll
+D:/testMCQ/MCQ/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Windows.Extensions.dll
+D:/testMCQ/MCQ/obj/Debug/net8.0/MCQ.csproj.AssemblyReference.cache
+D:/testMCQ/MCQ/obj/Debug/net8.0/MCQ.GeneratedMSBuildEditorConfig.editorconfig
+D:/testMCQ/MCQ/obj/Debug/net8.0/MCQ.AssemblyInfoInputs.cache
+D:/testMCQ/MCQ/obj/Debug/net8.0/MCQ.AssemblyInfo.cs
+D:/testMCQ/MCQ/obj/Debug/net8.0/MCQ.csproj.CoreCompileInputs.cache
+D:/testMCQ/MCQ/obj/Debug/net8.0/MCQ.MvcApplicationPartsAssemblyInfo.cache
+D:/testMCQ/MCQ/obj/Debug/net8.0/MCQ.RazorAssemblyInfo.cache
+D:/testMCQ/MCQ/obj/Debug/net8.0/MCQ.RazorAssemblyInfo.cs
+D:/testMCQ/MCQ/obj/Debug/net8.0/staticwebassets.build.json
+D:/testMCQ/MCQ/obj/Debug/net8.0/staticwebassets.development.json
+D:/testMCQ/MCQ/obj/Debug/net8.0/staticwebassets/msbuild.MCQ.Microsoft.AspNetCore.StaticWebAssets.props
+D:/testMCQ/MCQ/obj/Debug/net8.0/staticwebassets/msbuild.build.MCQ.props
+D:/testMCQ/MCQ/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MCQ.props
+D:/testMCQ/MCQ/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MCQ.props
+D:/testMCQ/MCQ/obj/Debug/net8.0/staticwebassets.pack.json
+D:/testMCQ/MCQ/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+D:/testMCQ/MCQ/obj/Debug/net8.0/scopedcss/bundle/MCQ.styles.css
+D:/testMCQ/MCQ/obj/Debug/net8.0/scopedcss/projectbundle/MCQ.bundle.scp.css
+D:/testMCQ/MCQ/obj/Debug/net8.0/MCQ.csproj.Up2Date
+D:/testMCQ/MCQ/obj/Debug/net8.0/MCQ.dll
+D:/testMCQ/MCQ/obj/Debug/net8.0/refint/MCQ.dll
+D:/testMCQ/MCQ/obj/Debug/net8.0/MCQ.pdb
+D:/testMCQ/MCQ/obj/Debug/net8.0/MCQ.genruntimeconfig.cache
+D:/testMCQ/MCQ/obj/Debug/net8.0/ref/MCQ.dll
+D:/MCQ/obj/Debug/net8.0/MCQ.csproj.AssemblyReference.cache
+D:/MCQ/obj/Debug/net8.0/MCQ.GeneratedMSBuildEditorConfig.editorconfig
+D:/MCQ/obj/Debug/net8.0/MCQ.AssemblyInfoInputs.cache
+D:/MCQ/obj/Debug/net8.0/MCQ.AssemblyInfo.cs
+D:/MCQ/obj/Debug/net8.0/MCQ.csproj.CoreCompileInputs.cache
+D:/MCQ/obj/Debug/net8.0/MCQ.MvcApplicationPartsAssemblyInfo.cache
+D:/MCQ/obj/Debug/net8.0/MCQ.RazorAssemblyInfo.cache
+D:/MCQ/obj/Debug/net8.0/MCQ.RazorAssemblyInfo.cs
+D:/MCQ/obj/Debug/net8.0/MCQ.dll
+D:/MCQ/obj/Debug/net8.0/refint/MCQ.dll
+D:/MCQ/obj/Debug/net8.0/MCQ.pdb
+D:/MCQ/bin/Debug/net8.0/appsettings.Development.json
+D:/MCQ/bin/Debug/net8.0/appsettings.json
+D:/MCQ/bin/Debug/net8.0/MCQ.staticwebassets.runtime.json
+D:/MCQ/bin/Debug/net8.0/MCQ.exe
+D:/MCQ/bin/Debug/net8.0/MCQ.deps.json
+D:/MCQ/bin/Debug/net8.0/MCQ.runtimeconfig.json
+D:/MCQ/bin/Debug/net8.0/MCQ.dll
+D:/MCQ/bin/Debug/net8.0/MCQ.pdb
+D:/MCQ/bin/Debug/net8.0/Azure.Core.dll
+D:/MCQ/bin/Debug/net8.0/Azure.Identity.dll
+D:/MCQ/bin/Debug/net8.0/Humanizer.dll
+D:/MCQ/bin/Debug/net8.0/Microsoft.AspNetCore.Razor.Language.dll
+D:/MCQ/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+D:/MCQ/bin/Debug/net8.0/Microsoft.Build.dll
+D:/MCQ/bin/Debug/net8.0/Microsoft.Build.Framework.dll
+D:/MCQ/bin/Debug/net8.0/Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:/MCQ/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+D:/MCQ/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+D:/MCQ/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Features.dll
+D:/MCQ/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:/MCQ/bin/Debug/net8.0/Microsoft.CodeAnalysis.Elfie.dll
+D:/MCQ/bin/Debug/net8.0/Microsoft.CodeAnalysis.Features.dll
+D:/MCQ/bin/Debug/net8.0/Microsoft.CodeAnalysis.Razor.dll
+D:/MCQ/bin/Debug/net8.0/Microsoft.CodeAnalysis.Scripting.dll
+D:/MCQ/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+D:/MCQ/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+D:/MCQ/bin/Debug/net8.0/Microsoft.DiaSymReader.dll
+D:/MCQ/bin/Debug/net8.0/Microsoft.DotNet.Scaffolding.Shared.dll
+D:/MCQ/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+D:/MCQ/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/MCQ/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+D:/MCQ/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+D:/MCQ/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+D:/MCQ/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+D:/MCQ/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+D:/MCQ/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+D:/MCQ/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+D:/MCQ/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+D:/MCQ/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+D:/MCQ/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+D:/MCQ/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:/MCQ/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+D:/MCQ/bin/Debug/net8.0/Microsoft.NET.StringTools.dll
+D:/MCQ/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+D:/MCQ/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:/MCQ/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:/MCQ/bin/Debug/net8.0/dotnet-aspnet-codegenerator-design.dll
+D:/MCQ/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:/MCQ/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:/MCQ/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:/MCQ/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:/MCQ/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+D:/MCQ/bin/Debug/net8.0/Mono.TextTemplating.dll
+D:/MCQ/bin/Debug/net8.0/Newtonsoft.Json.dll
+D:/MCQ/bin/Debug/net8.0/NuGet.Common.dll
+D:/MCQ/bin/Debug/net8.0/NuGet.Configuration.dll
+D:/MCQ/bin/Debug/net8.0/NuGet.DependencyResolver.Core.dll
+D:/MCQ/bin/Debug/net8.0/NuGet.Frameworks.dll
+D:/MCQ/bin/Debug/net8.0/NuGet.LibraryModel.dll
+D:/MCQ/bin/Debug/net8.0/NuGet.Packaging.dll
+D:/MCQ/bin/Debug/net8.0/NuGet.ProjectModel.dll
+D:/MCQ/bin/Debug/net8.0/NuGet.Protocol.dll
+D:/MCQ/bin/Debug/net8.0/NuGet.Versioning.dll
+D:/MCQ/bin/Debug/net8.0/System.CodeDom.dll
+D:/MCQ/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+D:/MCQ/bin/Debug/net8.0/System.Composition.Convention.dll
+D:/MCQ/bin/Debug/net8.0/System.Composition.Hosting.dll
+D:/MCQ/bin/Debug/net8.0/System.Composition.Runtime.dll
+D:/MCQ/bin/Debug/net8.0/System.Composition.TypedParts.dll
+D:/MCQ/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+D:/MCQ/bin/Debug/net8.0/System.Drawing.Common.dll
+D:/MCQ/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+D:/MCQ/bin/Debug/net8.0/System.Memory.Data.dll
+D:/MCQ/bin/Debug/net8.0/System.Reflection.MetadataLoadContext.dll
+D:/MCQ/bin/Debug/net8.0/System.Runtime.Caching.dll
+D:/MCQ/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+D:/MCQ/bin/Debug/net8.0/System.Security.Permissions.dll
+D:/MCQ/bin/Debug/net8.0/System.Windows.Extensions.dll
+D:/MCQ/bin/Debug/net8.0/af/Humanizer.resources.dll
+D:/MCQ/bin/Debug/net8.0/ar/Humanizer.resources.dll
+D:/MCQ/bin/Debug/net8.0/az/Humanizer.resources.dll
+D:/MCQ/bin/Debug/net8.0/bg/Humanizer.resources.dll
+D:/MCQ/bin/Debug/net8.0/bn-BD/Humanizer.resources.dll
+D:/MCQ/bin/Debug/net8.0/cs/Humanizer.resources.dll
+D:/MCQ/bin/Debug/net8.0/da/Humanizer.resources.dll
+D:/MCQ/bin/Debug/net8.0/de/Humanizer.resources.dll
+D:/MCQ/bin/Debug/net8.0/el/Humanizer.resources.dll
+D:/MCQ/bin/Debug/net8.0/es/Humanizer.resources.dll
+D:/MCQ/bin/Debug/net8.0/fa/Humanizer.resources.dll
+D:/MCQ/bin/Debug/net8.0/fi-FI/Humanizer.resources.dll
+D:/MCQ/bin/Debug/net8.0/fr/Humanizer.resources.dll
+D:/MCQ/bin/Debug/net8.0/fr-BE/Humanizer.resources.dll
+D:/MCQ/bin/Debug/net8.0/he/Humanizer.resources.dll
+D:/MCQ/bin/Debug/net8.0/hr/Humanizer.resources.dll
+D:/MCQ/bin/Debug/net8.0/hu/Humanizer.resources.dll
+D:/MCQ/bin/Debug/net8.0/hy/Humanizer.resources.dll
+D:/MCQ/bin/Debug/net8.0/id/Humanizer.resources.dll
+D:/MCQ/bin/Debug/net8.0/is/Humanizer.resources.dll
+D:/MCQ/bin/Debug/net8.0/it/Humanizer.resources.dll
+D:/MCQ/bin/Debug/net8.0/ja/Humanizer.resources.dll
+D:/MCQ/bin/Debug/net8.0/ko-KR/Humanizer.resources.dll
+D:/MCQ/bin/Debug/net8.0/ku/Humanizer.resources.dll
+D:/MCQ/bin/Debug/net8.0/lv/Humanizer.resources.dll
+D:/MCQ/bin/Debug/net8.0/ms-MY/Humanizer.resources.dll
+D:/MCQ/bin/Debug/net8.0/mt/Humanizer.resources.dll
+D:/MCQ/bin/Debug/net8.0/nb/Humanizer.resources.dll
+D:/MCQ/bin/Debug/net8.0/nb-NO/Humanizer.resources.dll
+D:/MCQ/bin/Debug/net8.0/nl/Humanizer.resources.dll
+D:/MCQ/bin/Debug/net8.0/pl/Humanizer.resources.dll
+D:/MCQ/bin/Debug/net8.0/pt/Humanizer.resources.dll
+D:/MCQ/bin/Debug/net8.0/ro/Humanizer.resources.dll
+D:/MCQ/bin/Debug/net8.0/ru/Humanizer.resources.dll
+D:/MCQ/bin/Debug/net8.0/sk/Humanizer.resources.dll
+D:/MCQ/bin/Debug/net8.0/sl/Humanizer.resources.dll
+D:/MCQ/bin/Debug/net8.0/sr/Humanizer.resources.dll
+D:/MCQ/bin/Debug/net8.0/sr-Latn/Humanizer.resources.dll
+D:/MCQ/bin/Debug/net8.0/sv/Humanizer.resources.dll
+D:/MCQ/bin/Debug/net8.0/th-TH/Humanizer.resources.dll
+D:/MCQ/bin/Debug/net8.0/tr/Humanizer.resources.dll
+D:/MCQ/bin/Debug/net8.0/uk/Humanizer.resources.dll
+D:/MCQ/bin/Debug/net8.0/uz-Cyrl-UZ/Humanizer.resources.dll
+D:/MCQ/bin/Debug/net8.0/uz-Latn-UZ/Humanizer.resources.dll
+D:/MCQ/bin/Debug/net8.0/vi/Humanizer.resources.dll
+D:/MCQ/bin/Debug/net8.0/zh-CN/Humanizer.resources.dll
+D:/MCQ/bin/Debug/net8.0/zh-Hans/Humanizer.resources.dll
+D:/MCQ/bin/Debug/net8.0/zh-Hant/Humanizer.resources.dll
+D:/MCQ/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+D:/MCQ/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+D:/MCQ/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+D:/MCQ/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+D:/MCQ/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+D:/MCQ/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+D:/MCQ/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+D:/MCQ/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+D:/MCQ/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+D:/MCQ/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+D:/MCQ/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+D:/MCQ/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+D:/MCQ/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+D:/MCQ/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/MCQ/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/MCQ/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/MCQ/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/MCQ/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/MCQ/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/MCQ/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/MCQ/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/MCQ/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/MCQ/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/MCQ/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/MCQ/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/MCQ/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/MCQ/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:/MCQ/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:/MCQ/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:/MCQ/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:/MCQ/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:/MCQ/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:/MCQ/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:/MCQ/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:/MCQ/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:/MCQ/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:/MCQ/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:/MCQ/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:/MCQ/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:/MCQ/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/MCQ/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/MCQ/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/MCQ/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/MCQ/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/MCQ/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/MCQ/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/MCQ/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/MCQ/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/MCQ/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/MCQ/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/MCQ/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/MCQ/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/MCQ/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Features.resources.dll
+D:/MCQ/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Features.resources.dll
+D:/MCQ/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Features.resources.dll
+D:/MCQ/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Features.resources.dll
+D:/MCQ/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Features.resources.dll
+D:/MCQ/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Features.resources.dll
+D:/MCQ/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Features.resources.dll
+D:/MCQ/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Features.resources.dll
+D:/MCQ/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Features.resources.dll
+D:/MCQ/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Features.resources.dll
+D:/MCQ/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Features.resources.dll
+D:/MCQ/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Features.resources.dll
+D:/MCQ/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Features.resources.dll
+D:/MCQ/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+D:/MCQ/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+D:/MCQ/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+D:/MCQ/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+D:/MCQ/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+D:/MCQ/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+D:/MCQ/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+D:/MCQ/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+D:/MCQ/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+D:/MCQ/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+D:/MCQ/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+D:/MCQ/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+D:/MCQ/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+D:/MCQ/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/MCQ/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/MCQ/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/MCQ/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/MCQ/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/MCQ/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/MCQ/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/MCQ/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/MCQ/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/MCQ/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/MCQ/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/MCQ/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/MCQ/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/MCQ/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+D:/MCQ/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+D:/MCQ/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+D:/MCQ/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/MCQ/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/MCQ/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+D:/MCQ/bin/Debug/net8.0/runtimes/win/lib/net7.0/Microsoft.Win32.SystemEvents.dll
+D:/MCQ/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Drawing.Common.dll
+D:/MCQ/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+D:/MCQ/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Security.Cryptography.ProtectedData.dll
+D:/MCQ/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Windows.Extensions.dll
+D:/MCQ/obj/Debug/net8.0/staticwebassets.build.json
+D:/MCQ/obj/Debug/net8.0/staticwebassets.development.json
+D:/MCQ/obj/Debug/net8.0/staticwebassets/msbuild.MCQ.Microsoft.AspNetCore.StaticWebAssets.props
+D:/MCQ/obj/Debug/net8.0/staticwebassets/msbuild.build.MCQ.props
+D:/MCQ/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MCQ.props
+D:/MCQ/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MCQ.props
+D:/MCQ/obj/Debug/net8.0/staticwebassets.pack.json
+D:/MCQ/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+D:/MCQ/obj/Debug/net8.0/scopedcss/bundle/MCQ.styles.css
+D:/MCQ/obj/Debug/net8.0/scopedcss/projectbundle/MCQ.bundle.scp.css
+D:/MCQ/obj/Debug/net8.0/MCQ.csproj.Up2Date
+D:/MCQ/obj/Debug/net8.0/MCQ.genruntimeconfig.cache
+D:/MCQ/obj/Debug/net8.0/ref/MCQ.dll
+D:/MCQ/bin/Debug/net8.0/BCrypt.Net-Next.dll
+D:/MCQ/bin/Debug/net8.0/AspNetCoreHero.ToastNotification.Views.dll
+D:/MCQ/bin/Debug/net8.0/AspNetCoreHero.ToastNotification.dll
+D:/MCQ/obj/Debug/net8.0/MCQ.MvcApplicationPartsAssemblyInfo.cs
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/appsettings.Development.json
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/appsettings.json
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/MCQ.staticwebassets.runtime.json
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/MCQ
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/MCQ.deps.json
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/MCQ.runtimeconfig.json
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/MCQ.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/MCQ.pdb
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/AspNetCoreHero.ToastNotification.Views.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/AspNetCoreHero.ToastNotification.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/Azure.Core.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/Azure.Identity.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/BCrypt.Net-Next.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/Humanizer.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/Microsoft.Build.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/Microsoft.Build.Framework.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Features.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/Microsoft.CodeAnalysis.Elfie.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/Microsoft.CodeAnalysis.Features.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/Microsoft.CodeAnalysis.Razor.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/Microsoft.CodeAnalysis.Scripting.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/Microsoft.DiaSymReader.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/Microsoft.DotNet.Scaffolding.Shared.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/Microsoft.NET.StringTools.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/dotnet-aspnet-codegenerator-design.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/NuGet.Common.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/NuGet.Configuration.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/NuGet.DependencyResolver.Core.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/NuGet.Frameworks.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/NuGet.LibraryModel.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/NuGet.Packaging.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/NuGet.ProjectModel.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/NuGet.Protocol.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/NuGet.Versioning.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/System.CodeDom.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/System.Drawing.Common.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/System.Memory.Data.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/System.Reflection.MetadataLoadContext.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/System.Runtime.Caching.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/System.Security.Permissions.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/System.Windows.Extensions.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/af/Humanizer.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/ar/Humanizer.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/az/Humanizer.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/bg/Humanizer.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/bn-BD/Humanizer.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/cs/Humanizer.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/da/Humanizer.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/de/Humanizer.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/el/Humanizer.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/es/Humanizer.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/fa/Humanizer.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/fi-FI/Humanizer.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/fr/Humanizer.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/fr-BE/Humanizer.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/he/Humanizer.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/hr/Humanizer.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/hu/Humanizer.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/hy/Humanizer.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/id/Humanizer.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/is/Humanizer.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/it/Humanizer.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/ja/Humanizer.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/ko-KR/Humanizer.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/ku/Humanizer.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/lv/Humanizer.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/ms-MY/Humanizer.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/mt/Humanizer.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/nb/Humanizer.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/nb-NO/Humanizer.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/nl/Humanizer.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/pl/Humanizer.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/pt/Humanizer.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/ro/Humanizer.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/ru/Humanizer.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/sk/Humanizer.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/sl/Humanizer.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/sr/Humanizer.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/sr-Latn/Humanizer.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/sv/Humanizer.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/th-TH/Humanizer.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/tr/Humanizer.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/uk/Humanizer.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/uz-Cyrl-UZ/Humanizer.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/uz-Latn-UZ/Humanizer.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/vi/Humanizer.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/zh-CN/Humanizer.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/zh-Hans/Humanizer.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/zh-Hant/Humanizer.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/runtimes/win/lib/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Drawing.Common.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Windows.Extensions.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/obj/Debug/net8.0/MCQ.csproj.AssemblyReference.cache
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/obj/Debug/net8.0/MCQ.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/obj/Debug/net8.0/MCQ.AssemblyInfoInputs.cache
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/obj/Debug/net8.0/MCQ.AssemblyInfo.cs
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/obj/Debug/net8.0/MCQ.csproj.CoreCompileInputs.cache
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/obj/Debug/net8.0/MCQ.MvcApplicationPartsAssemblyInfo.cs
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/obj/Debug/net8.0/MCQ.MvcApplicationPartsAssemblyInfo.cache
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/obj/Debug/net8.0/MCQ.RazorAssemblyInfo.cache
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/obj/Debug/net8.0/MCQ.RazorAssemblyInfo.cs
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/obj/Debug/net8.0/MCQ.sourcelink.json
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/obj/Debug/net8.0/staticwebassets.build.json
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/obj/Debug/net8.0/staticwebassets.development.json
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/obj/Debug/net8.0/staticwebassets/msbuild.MCQ.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/obj/Debug/net8.0/staticwebassets/msbuild.build.MCQ.props
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MCQ.props
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MCQ.props
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/obj/Debug/net8.0/scopedcss/bundle/MCQ.styles.css
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/obj/Debug/net8.0/scopedcss/projectbundle/MCQ.bundle.scp.css
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/obj/Debug/net8.0/MCQ.csproj.Up2Date
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/obj/Debug/net8.0/MCQ.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/obj/Debug/net8.0/refint/MCQ.dll
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/obj/Debug/net8.0/MCQ.pdb
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/obj/Debug/net8.0/MCQ.genruntimeconfig.cache
+/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/obj/Debug/net8.0/ref/MCQ.dll

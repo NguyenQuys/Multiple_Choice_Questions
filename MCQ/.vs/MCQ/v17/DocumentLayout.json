@@ -1,0 +1,483 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MCQ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF89D60E-C4AC-4DA3-BAE5-C07F9E134CBA}|MCQ.csproj|d:\\mcq\\views\\user\\editinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF89D60E-C4AC-4DA3-BAE5-C07F9E134CBA}|MCQ.csproj|solutionrelative:views\\user\\editinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF89D60E-C4AC-4DA3-BAE5-C07F9E134CBA}|MCQ.csproj|d:\\mcq\\views\\user\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF89D60E-C4AC-4DA3-BAE5-C07F9E134CBA}|MCQ.csproj|solutionrelative:views\\user\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF89D60E-C4AC-4DA3-BAE5-C07F9E134CBA}|MCQ.csproj|d:\\mcq\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF89D60E-C4AC-4DA3-BAE5-C07F9E134CBA}|MCQ.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF89D60E-C4AC-4DA3-BAE5-C07F9E134CBA}|MCQ.csproj|d:\\mcq\\areas\\teacher\\controllers\\teacherhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF89D60E-C4AC-4DA3-BAE5-C07F9E134CBA}|MCQ.csproj|solutionrelative:areas\\teacher\\controllers\\teacherhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF89D60E-C4AC-4DA3-BAE5-C07F9E134CBA}|MCQ.csproj|d:\\mcq\\areas\\admin\\controllers\\adminhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF89D60E-C4AC-4DA3-BAE5-C07F9E134CBA}|MCQ.csproj|solutionrelative:areas\\admin\\controllers\\adminhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF89D60E-C4AC-4DA3-BAE5-C07F9E134CBA}|MCQ.csproj|d:\\mcq\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF89D60E-C4AC-4DA3-BAE5-C07F9E134CBA}|MCQ.csproj|solutionrelative:areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF89D60E-C4AC-4DA3-BAE5-C07F9E134CBA}|MCQ.csproj|d:\\mcq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF89D60E-C4AC-4DA3-BAE5-C07F9E134CBA}|MCQ.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF89D60E-C4AC-4DA3-BAE5-C07F9E134CBA}|MCQ.csproj|d:\\mcq\\views\\user\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF89D60E-C4AC-4DA3-BAE5-C07F9E134CBA}|MCQ.csproj|solutionrelative:views\\user\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF89D60E-C4AC-4DA3-BAE5-C07F9E134CBA}|MCQ.csproj|d:\\mcq\\viewmodel\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF89D60E-C4AC-4DA3-BAE5-C07F9E134CBA}|MCQ.csproj|solutionrelative:viewmodel\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF89D60E-C4AC-4DA3-BAE5-C07F9E134CBA}|MCQ.csproj|d:\\mcq\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF89D60E-C4AC-4DA3-BAE5-C07F9E134CBA}|MCQ.csproj|solutionrelative:views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF89D60E-C4AC-4DA3-BAE5-C07F9E134CBA}|MCQ.csproj|d:\\mcq\\views\\home\\addcontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF89D60E-C4AC-4DA3-BAE5-C07F9E134CBA}|MCQ.csproj|solutionrelative:views\\home\\addcontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF89D60E-C4AC-4DA3-BAE5-C07F9E134CBA}|MCQ.csproj|d:\\mcq\\models\\other\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF89D60E-C4AC-4DA3-BAE5-C07F9E134CBA}|MCQ.csproj|solutionrelative:models\\other\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF89D60E-C4AC-4DA3-BAE5-C07F9E134CBA}|MCQ.csproj|d:\\mcq\\models\\other\\emailsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF89D60E-C4AC-4DA3-BAE5-C07F9E134CBA}|MCQ.csproj|solutionrelative:models\\other\\emailsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF89D60E-C4AC-4DA3-BAE5-C07F9E134CBA}|MCQ.csproj|d:\\mcq\\areas\\admin\\views\\adminhome\\studentlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF89D60E-C4AC-4DA3-BAE5-C07F9E134CBA}|MCQ.csproj|solutionrelative:areas\\admin\\views\\adminhome\\studentlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF89D60E-C4AC-4DA3-BAE5-C07F9E134CBA}|MCQ.csproj|d:\\mcq\\areas\\admin\\views\\adminhome\\addteacher.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF89D60E-C4AC-4DA3-BAE5-C07F9E134CBA}|MCQ.csproj|solutionrelative:areas\\admin\\views\\adminhome\\addteacher.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF89D60E-C4AC-4DA3-BAE5-C07F9E134CBA}|MCQ.csproj|d:\\mcq\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF89D60E-C4AC-4DA3-BAE5-C07F9E134CBA}|MCQ.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF89D60E-C4AC-4DA3-BAE5-C07F9E134CBA}|MCQ.csproj|d:\\mcq\\views\\home\\examhistory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF89D60E-C4AC-4DA3-BAE5-C07F9E134CBA}|MCQ.csproj|solutionrelative:views\\home\\examhistory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF89D60E-C4AC-4DA3-BAE5-C07F9E134CBA}|MCQ.csproj|d:\\mcq\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF89D60E-C4AC-4DA3-BAE5-C07F9E134CBA}|MCQ.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF89D60E-C4AC-4DA3-BAE5-C07F9E134CBA}|MCQ.csproj|d:\\mcq\\viewmodel\\examhistoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF89D60E-C4AC-4DA3-BAE5-C07F9E134CBA}|MCQ.csproj|solutionrelative:viewmodel\\examhistoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF89D60E-C4AC-4DA3-BAE5-C07F9E134CBA}|MCQ.csproj|d:\\mcq\\views\\home\\courselist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF89D60E-C4AC-4DA3-BAE5-C07F9E134CBA}|MCQ.csproj|solutionrelative:views\\home\\courselist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF89D60E-C4AC-4DA3-BAE5-C07F9E134CBA}|MCQ.csproj|d:\\mcq\\views\\user\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF89D60E-C4AC-4DA3-BAE5-C07F9E134CBA}|MCQ.csproj|solutionrelative:views\\user\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF89D60E-C4AC-4DA3-BAE5-C07F9E134CBA}|MCQ.csproj|d:\\mcq\\areas\\admin\\views\\adminhome\\updatestudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF89D60E-C4AC-4DA3-BAE5-C07F9E134CBA}|MCQ.csproj|solutionrelative:areas\\admin\\views\\adminhome\\updatestudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF89D60E-C4AC-4DA3-BAE5-C07F9E134CBA}|MCQ.csproj|d:\\mcq\\areas\\admin\\views\\adminhome\\updateteacher.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF89D60E-C4AC-4DA3-BAE5-C07F9E134CBA}|MCQ.csproj|solutionrelative:areas\\admin\\views\\adminhome\\updateteacher.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF89D60E-C4AC-4DA3-BAE5-C07F9E134CBA}|MCQ.csproj|d:\\mcq\\areas\\teacher\\views\\teacherhome\\subjectlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF89D60E-C4AC-4DA3-BAE5-C07F9E134CBA}|MCQ.csproj|solutionrelative:areas\\teacher\\views\\teacherhome\\subjectlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF89D60E-C4AC-4DA3-BAE5-C07F9E134CBA}|MCQ.csproj|d:\\mcq\\areas\\teacher\\views\\teacherhome\\editquestion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF89D60E-C4AC-4DA3-BAE5-C07F9E134CBA}|MCQ.csproj|solutionrelative:areas\\teacher\\views\\teacherhome\\editquestion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF89D60E-C4AC-4DA3-BAE5-C07F9E134CBA}|MCQ.csproj|d:\\mcq\\areas\\teacher\\views\\teacherhome\\editsubject.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF89D60E-C4AC-4DA3-BAE5-C07F9E134CBA}|MCQ.csproj|solutionrelative:areas\\teacher\\views\\teacherhome\\editsubject.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminHomeController.cs",
+              "DocumentMoniker": "D:\\MCQ\\Areas\\Admin\\Controllers\\AdminHomeController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\AdminHomeController.cs",
+              "ToolTip": "D:\\MCQ\\Areas\\Admin\\Controllers\\AdminHomeController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\AdminHomeController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T18:17:14.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TeacherHomeController.cs",
+              "DocumentMoniker": "D:\\MCQ\\Areas\\Teacher\\Controllers\\TeacherHomeController.cs",
+              "RelativeDocumentMoniker": "Areas\\Teacher\\Controllers\\TeacherHomeController.cs",
+              "ToolTip": "D:\\MCQ\\Areas\\Teacher\\Controllers\\TeacherHomeController.cs",
+              "RelativeToolTip": "Areas\\Teacher\\Controllers\\TeacherHomeController.cs",
+              "ViewState": "AQIAAEoBAAAAAAAAAAAAAMAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T03:26:39.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EditInfo.cshtml",
+              "DocumentMoniker": "D:\\MCQ\\Views\\User\\EditInfo.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\EditInfo.cshtml",
+              "ToolTip": "D:\\MCQ\\Views\\User\\EditInfo.cshtml",
+              "RelativeToolTip": "Views\\User\\EditInfo.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T15:25:42.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "D:\\MCQ\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "D:\\MCQ\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T08:14:32.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MCQ\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\MCQ\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAkwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T08:43:11.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ForgotPassword.cshtml",
+              "DocumentMoniker": "D:\\MCQ\\Views\\User\\ForgotPassword.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\ForgotPassword.cshtml",
+              "ToolTip": "D:\\MCQ\\Views\\User\\ForgotPassword.cshtml",
+              "RelativeToolTip": "Views\\User\\ForgotPassword.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T07:31:33.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddContact.cshtml",
+              "DocumentMoniker": "D:\\MCQ\\Views\\Home\\AddContact.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\AddContact.cshtml",
+              "ToolTip": "D:\\MCQ\\Views\\Home\\AddContact.cshtml",
+              "RelativeToolTip": "Views\\Home\\AddContact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T07:41:59.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LogIn.cshtml",
+              "DocumentMoniker": "D:\\MCQ\\Views\\User\\LogIn.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\LogIn.cshtml",
+              "ToolTip": "D:\\MCQ\\Views\\User\\LogIn.cshtml",
+              "RelativeToolTip": "Views\\User\\LogIn.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAADsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T07:05:53.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "D:\\MCQ\\ViewModel\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\UserViewModel.cs",
+              "ToolTip": "D:\\MCQ\\ViewModel\\UserViewModel.cs",
+              "RelativeToolTip": "ViewModel\\UserViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T07:19:31.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmailSetting.cs",
+              "DocumentMoniker": "D:\\MCQ\\Models\\Other\\EmailSetting.cs",
+              "RelativeDocumentMoniker": "Models\\Other\\EmailSetting.cs",
+              "ToolTip": "D:\\MCQ\\Models\\Other\\EmailSetting.cs",
+              "RelativeToolTip": "Models\\Other\\EmailSetting.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T06:48:28.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IEmailSender.cs",
+              "DocumentMoniker": "D:\\MCQ\\Models\\Other\\IEmailSender.cs",
+              "RelativeDocumentMoniker": "Models\\Other\\IEmailSender.cs",
+              "ToolTip": "D:\\MCQ\\Models\\Other\\IEmailSender.cs",
+              "RelativeToolTip": "Models\\Other\\IEmailSender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T06:48:12.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddTeacher.cshtml",
+              "DocumentMoniker": "D:\\MCQ\\Areas\\Admin\\Views\\AdminHome\\AddTeacher.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\AdminHome\\AddTeacher.cshtml",
+              "ToolTip": "D:\\MCQ\\Areas\\Admin\\Views\\AdminHome\\AddTeacher.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\AdminHome\\AddTeacher.cshtml",
+              "ViewState": "AQIAABMAAAAAAAAAAABBwB4AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T08:15:29.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StudentList.cshtml",
+              "DocumentMoniker": "D:\\MCQ\\Areas\\Admin\\Views\\AdminHome\\StudentList.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\AdminHome\\StudentList.cshtml",
+              "ToolTip": "D:\\MCQ\\Areas\\Admin\\Views\\AdminHome\\StudentList.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\AdminHome\\StudentList.cshtml",
+              "ViewState": "AQIAACUAAAAAAAAAAABBwDwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T08:20:15.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\MCQ\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\MCQ\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAC4AAAAAAAAAAABBwEQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T16:41:21.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ExamHistory.cshtml",
+              "DocumentMoniker": "D:\\MCQ\\Views\\Home\\ExamHistory.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\ExamHistory.cshtml",
+              "ToolTip": "D:\\MCQ\\Views\\Home\\ExamHistory.cshtml",
+              "RelativeToolTip": "Views\\Home\\ExamHistory.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T15:38:07.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\MCQ\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\MCQ\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAFYBAAAAAAAAAABBwGABAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T15:07:37.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ExamHistoryViewModel.cs",
+              "DocumentMoniker": "D:\\MCQ\\ViewModel\\ExamHistoryViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\ExamHistoryViewModel.cs",
+              "ToolTip": "D:\\MCQ\\ViewModel\\ExamHistoryViewModel.cs",
+              "RelativeToolTip": "ViewModel\\ExamHistoryViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T15:52:29.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CourseList.cshtml",
+              "DocumentMoniker": "D:\\MCQ\\Views\\Home\\CourseList.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\CourseList.cshtml",
+              "ToolTip": "D:\\MCQ\\Views\\Home\\CourseList.cshtml",
+              "RelativeToolTip": "Views\\Home\\CourseList.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T15:37:11.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ChangePassword.cshtml",
+              "DocumentMoniker": "D:\\MCQ\\Views\\User\\ChangePassword.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\ChangePassword.cshtml",
+              "ToolTip": "D:\\MCQ\\Views\\User\\ChangePassword.cshtml",
+              "RelativeToolTip": "Views\\User\\ChangePassword.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAcwBkAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T15:29:52.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UpdateStudent.cshtml",
+              "DocumentMoniker": "D:\\MCQ\\Areas\\Admin\\Views\\AdminHome\\UpdateStudent.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\AdminHome\\UpdateStudent.cshtml",
+              "ToolTip": "D:\\MCQ\\Areas\\Admin\\Views\\AdminHome\\UpdateStudent.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\AdminHome\\UpdateStudent.cshtml",
+              "ViewState": "AQIAAB8AAAAAAAAAAABBwDEAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T15:20:37.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UpdateTeacher.cshtml",
+              "DocumentMoniker": "D:\\MCQ\\Areas\\Admin\\Views\\AdminHome\\UpdateTeacher.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\AdminHome\\UpdateTeacher.cshtml",
+              "ToolTip": "D:\\MCQ\\Areas\\Admin\\Views\\AdminHome\\UpdateTeacher.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\AdminHome\\UpdateTeacher.cshtml",
+              "ViewState": "AQIAABYAAAAAAAAAAAAcwDEAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T14:45:00.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SubjectList.cshtml",
+              "DocumentMoniker": "D:\\MCQ\\Areas\\Teacher\\Views\\TeacherHome\\SubjectList.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Teacher\\Views\\TeacherHome\\SubjectList.cshtml",
+              "ToolTip": "D:\\MCQ\\Areas\\Teacher\\Views\\TeacherHome\\SubjectList.cshtml",
+              "RelativeToolTip": "Areas\\Teacher\\Views\\TeacherHome\\SubjectList.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T07:38:41.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EditQuestion.cshtml",
+              "DocumentMoniker": "D:\\MCQ\\Areas\\Teacher\\Views\\TeacherHome\\EditQuestion.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Teacher\\Views\\TeacherHome\\EditQuestion.cshtml",
+              "ToolTip": "D:\\MCQ\\Areas\\Teacher\\Views\\TeacherHome\\EditQuestion.cshtml",
+              "RelativeToolTip": "Areas\\Teacher\\Views\\TeacherHome\\EditQuestion.cshtml",
+              "ViewState": "AQIAAGEAAAAAAAAAAABBwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T07:35:27.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EditSubject.cshtml",
+              "DocumentMoniker": "D:\\MCQ\\Areas\\Teacher\\Views\\TeacherHome\\EditSubject.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Teacher\\Views\\TeacherHome\\EditSubject.cshtml",
+              "ToolTip": "D:\\MCQ\\Areas\\Teacher\\Views\\TeacherHome\\EditSubject.cshtml",
+              "RelativeToolTip": "Areas\\Teacher\\Views\\TeacherHome\\EditSubject.cshtml",
+              "ViewState": "AQIAABwAAAAAAAAAAABBwD0AAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T07:35:42.653Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "20af2630-79b9-451d-8114-9554f626c362",
+        "Display": 0,
+        "X": 23,
+        "Y": 83,
+        "Width": 679,
+        "Height": 728,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\MCQ\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "D:\\MCQ\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAAKIAAAAAAAAAAAAAALgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T14:16:57.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Info.cshtml",
+              "DocumentMoniker": "D:\\MCQ\\Views\\User\\Info.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\Info.cshtml",
+              "ToolTip": "D:\\MCQ\\Views\\User\\Info.cshtml",
+              "RelativeToolTip": "Views\\User\\Info.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T15:23:39.49Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

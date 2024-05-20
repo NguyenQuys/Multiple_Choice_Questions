@@ -1,0 +1,33 @@
+﻿@model IEnumerable<MCQ.Models.Subject>
+@{
+    ViewData["Title"] = "- Danh sách bài kiểm tra";
+    Layout = "~/Areas/Teacher/Views/Shared/_LayoutTeacher.cshtml";
+}
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+<h2 class="text-success">@TempData["UpdateSuccessfully"]</h2>
+<a class="btn btn-primary" asp-action="AddSubject" asp-area="Teacher">Thêm bài kiểm tra mới</a>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.SubjectName)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.SubjectName)
+                </td>
+                <td>
+                    <a class="btn btn-primary" asp-action="DetailSubject" asp-route-idSubject="@item.IdSubject">Chi tiết</a> |
+                    <a class="btn btn-primary" asp-action="DeleteSubject" asp-route-idSubject="@item.IdSubject">Xóa</a> |
+                    <a class="btn btn-primary" asp-action="StatisticOfTeacher" asp-route-idSubject="@item.IdSubject">Thống kê</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

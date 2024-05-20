@@ -1,0 +1,75 @@
+﻿@model MCQ.Models.Subject
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+@{
+    ViewData["Title"] = "EditSubject";
+    Layout = "~/Areas/Teacher/Views/Shared/_LayoutTeacher.cshtml";
+}
+
+<h1>Chỉnh sửa môn học</h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="EditSubject">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div>
+                <input type="hidden" asp-for="IdSubject" />
+                <input type="hidden" asp-for="IdUser" />
+            </div>
+            <div class="form-group">
+                <label class="control-label">Tên môn học</label>
+                <input asp-for="SubjectName" class="form-control" />
+                <span asp-validation-for="SubjectName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Time" class="control-label"></label>
+                <input asp-for="Time" class="form-control" />
+                <span asp-validation-for="Time" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="AmountQuestionLevel1" class="control-label"></label>
+                <input asp-for="AmountQuestionLevel1" class="form-control" />
+                <span asp-validation-for="AmountQuestionLevel1" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MinCorrectAnswerLevel1" class="control-label"></label>
+                <input asp-for="MinCorrectAnswerLevel1" class="form-control" />
+                <span asp-validation-for="MinCorrectAnswerLevel1" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="AmountQuestionLevel2" class="control-label"></label>
+                <input asp-for="AmountQuestionLevel2" class="form-control" />
+                <span asp-validation-for="AmountQuestionLevel2" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MinCorrectAnswerLevel2" class="control-label"></label>
+                <input asp-for="MinCorrectAnswerLevel2" class="form-control" />
+                <span asp-validation-for="MinCorrectAnswerLevel2" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="AmountQuestionLevel3" class="control-label"></label>
+                <input asp-for="AmountQuestionLevel3" class="form-control" />
+                <span asp-validation-for="AmountQuestionLevel3" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MinCorrectAnswerLevel3" class="control-label"></label>
+                <input asp-for="MinCorrectAnswerLevel3" class="form-control" />
+                <span asp-validation-for="MinCorrectAnswerLevel3" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NumberForEachLevel" class="control-label"></label>
+                <input asp-for="NumberForEachLevel" class="form-control" type="number"/>
+                <span asp-validation-for="NumberForEachLevel" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Tiếp tục" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a href="history.back()">Quay về</a>
+</div>
+

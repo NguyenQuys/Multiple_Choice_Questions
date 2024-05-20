@@ -1,0 +1,187 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MCQ
+build_property.RootNamespace = MCQ
+build_property.ProjectDir = /Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/Areas/Admin/Views/AdminHome/AddStudent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQWRtaW5Ib21lL0FkZFN0dWRlbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/Areas/Admin/Views/AdminHome/AddTeacher.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQWRtaW5Ib21lL0FkZFRlYWNoZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/Areas/Admin/Views/AdminHome/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQWRtaW5Ib21lL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/Areas/Admin/Views/AdminHome/StudentList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQWRtaW5Ib21lL1N0dWRlbnRMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/Areas/Admin/Views/AdminHome/TeacherList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQWRtaW5Ib21lL1RlYWNoZXJMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/Areas/Admin/Views/AdminHome/UpdateStudent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQWRtaW5Ib21lL1VwZGF0ZVN0dWRlbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/Areas/Admin/Views/AdminHome/UpdateTeacher.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQWRtaW5Ib21lL1VwZGF0ZVRlYWNoZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL19MYXlvdXRBZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/Areas/Teacher/Views/Shared/_LayoutTeacher.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvVGVhY2hlci9WaWV3cy9TaGFyZWQvX0xheW91dFRlYWNoZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/Areas/Teacher/Views/TeacherHome/AddQuestion.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvVGVhY2hlci9WaWV3cy9UZWFjaGVySG9tZS9BZGRRdWVzdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/Areas/Teacher/Views/TeacherHome/AddSubject.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvVGVhY2hlci9WaWV3cy9UZWFjaGVySG9tZS9BZGRTdWJqZWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/Areas/Teacher/Views/TeacherHome/ChangePassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvVGVhY2hlci9WaWV3cy9UZWFjaGVySG9tZS9DaGFuZ2VQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/Areas/Teacher/Views/TeacherHome/DeleteQuestion.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvVGVhY2hlci9WaWV3cy9UZWFjaGVySG9tZS9EZWxldGVRdWVzdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/Areas/Teacher/Views/TeacherHome/DetailSubject.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvVGVhY2hlci9WaWV3cy9UZWFjaGVySG9tZS9EZXRhaWxTdWJqZWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/Areas/Teacher/Views/TeacherHome/EditInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvVGVhY2hlci9WaWV3cy9UZWFjaGVySG9tZS9FZGl0SW5mby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/Areas/Teacher/Views/TeacherHome/EditQuestion.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvVGVhY2hlci9WaWV3cy9UZWFjaGVySG9tZS9FZGl0UXVlc3Rpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/Areas/Teacher/Views/TeacherHome/EditSubject.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvVGVhY2hlci9WaWV3cy9UZWFjaGVySG9tZS9FZGl0U3ViamVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/Areas/Teacher/Views/TeacherHome/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvVGVhY2hlci9WaWV3cy9UZWFjaGVySG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/Areas/Teacher/Views/TeacherHome/StatisticOfTeacher.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvVGVhY2hlci9WaWV3cy9UZWFjaGVySG9tZS9TdGF0aXN0aWNPZlRlYWNoZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/Areas/Teacher/Views/TeacherHome/SubjectList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvVGVhY2hlci9WaWV3cy9UZWFjaGVySG9tZS9TdWJqZWN0TGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/Views/Home/AddContact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9BZGRDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/Views/Home/CourseList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Db3Vyc2VMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/Views/Home/Exam.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9FeGFtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/Views/Home/ExamHistory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9FeGFtSGlzdG9yeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/Views/Home/Result.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9SZXN1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/Views/Shared/_LayoutTest.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXRUZXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/Views/Shared/_TimerPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19UaW1lclBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/Views/User/ChangePassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9DaGFuZ2VQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/Views/User/EditInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9FZGl0SW5mby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/Views/User/ForgotPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9Gb3Jnb3RQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/Views/User/Info.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9JbmZvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/Views/User/LogIn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9Mb2dJbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/Views/User/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9SZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/anhtuan/Documents/DACS1/Multiple_Choice_Questions/MCQ/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-k2f9ymvg0t

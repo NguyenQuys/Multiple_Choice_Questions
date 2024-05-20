@@ -1,0 +1,122 @@
+﻿@model MCQ.Models.Subject
+@{
+    ViewData["Title"] = "Thêm câu hỏi";
+    Layout = "~/Areas/Teacher/Views/Shared/_LayoutTeacher.cshtml";
+}
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+<h4>Subject</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="AddSubject">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="IdSubject" class="control-label"></label>
+                <input asp-for="IdSubject" class="form-control" type="text" required />
+                <span asp-validation-for="IdSubject" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Tên môn học</label>
+                <input asp-for="SubjectName" class="form-control" type="text" required />
+                <span asp-validation-for="SubjectName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Thời gian</label>
+                <input asp-for="Time" class="form-control" type="number" required />
+                <span asp-validation-for="Time" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Số lượng câu hỏi ở mức 1</label>
+                <input id="AmountQuestionLevel1" asp-for="AmountQuestionLevel1" class="form-control" type="number" required />
+                <span asp-validation-for="AmountQuestionLevel1" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Số lượng tối thiểu cần phải đúng ở mức 1</label>
+                <input id="MinCorrectAnswerLevel1" asp-for="MinCorrectAnswerLevel1" class="form-control" type="number" required />
+                <span asp-validation-for="MinCorrectAnswerLevel1" class="text-danger"></span>
+            </div>
+            <span id="warningMessage" class="text-warning"></span>
+            <div class="form-group">
+                <label class="control-label">Số lượng câu hỏi ở mức 2</label>
+                <input asp-for="AmountQuestionLevel2" class="form-control" type="number" required />
+                <span asp-validation-for="AmountQuestionLevel2" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Số lượng tối thiểu cần phải đúng ở mức 2</label>
+                <input id="MinCorrectAnswerLevel2" asp-for="MinCorrectAnswerLevel2" class="form-control" type="number" required />
+                <span asp-validation-for="MinCorrectAnswerLevel2" class="text-danger"></span>
+                <span id="warningMessageLevel2" class="text-warning"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Số lượng câu hỏi ở mức 3</label>
+                <input id="AmountQuestionLevel3" asp-for="AmountQuestionLevel2" class="form-control" type="number" required />
+                <span asp-validation-for="AmountQuestionLevel2" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Số lượng tối thiểu cần phải đúng ở mức 3</label>
+                <input id="MinCorrectAnswerLevel3" asp-for="MinCorrectAnswerLevel3" class="form-control" type="number" required />
+                <span asp-validation-for="MinCorrectAnswerLevel3" class="text-danger"></span>
+                <span id="warningMessageLevel3" class="text-warning"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Số lượng câu hỏi xuất hiện ở mỗi Level</label>
+                <input asp-for="NumberForEachLevel" class="form-control" type="number" required />
+                <span asp-validation-for="NumberForEachLevel" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input id="resetBtn" type="reset" value="Reset" class="btn btn-primary" />
+                <input id="submitBtn" type="submit" value="Tiếp tục thêm câu hỏi" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a class="btn btn-behance" href="javascript:history.back()">Trở về</a>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+    $(document).ready(function () {
+        // Lắng nghe sự kiện thay đổi trên cả ba ô nhập liệu
+        $('input[type="number"]').on('input', function () {
+            var amountLevel1 = parseFloat($('#AmountQuestionLevel1').val());
+            var minCorrectLevel1 = parseFloat($('#MinCorrectAnswerLevel1').val());
+
+            var amountLevel2 = parseFloat($('#AmountQuestionLevel2').val());
+            var minCorrectLevel2 = parseFloat($('#MinCorrectAnswerLevel2').val());
+
+            var amountLevel3 = parseFloat($('#AmountQuestionLevel3').val());
+            var minCorrectLevel3 = parseFloat($('#MinCorrectAnswerLevel3').val());
+
+            // Kiểm tra các điều kiện cho mỗi cấp độ
+            var disableCreateBtn = false; // Mặc định là false
+
+            if (minCorrectLevel1 > amountLevel1 || minCorrectLevel2 > amountLevel2 || minCorrectLevel3 > amountLevel3) {
+                disableCreateBtn = true; // Nếu một trong các điều kiện không được đáp ứng, đặt disableCreateBtn là true
+            }
+
+            // Vô hiệu hóa hoặc kích hoạt nút "Create" tùy thuộc vào giá trị của disableCreateBtn
+            $('#submitBtn').prop('disabled', disableCreateBtn);
+
+            // Hiển thị cảnh báo tương ứng nếu có
+            if (minCorrectLevel1 > amountLevel1) {
+                $('#warningMessage').text('Số lượng tối thiểu ở mức 1 phải nhỏ hơn hoặc bằng tổng số lượng câu hỏi.');
+            } else {
+                $('#warningMessage').text('');
+            }
+
+            if (minCorrectLevel2 > amountLevel2) {
+                $('#warningMessageLevel2').text('Số lượng tối thiểu ở mức 2 phải nhỏ hơn hoặc bằng tổng số lượng câu hỏi.');
+            } else {
+                $('#warningMessageLevel2').text('');
+            }
+
+            if (minCorrectLevel3 > amountLevel3) {
+                $('#warningMessageLevel3').text('Số lượng tối thiểu ở mức 3 phải nhỏ hơn hoặc bằng tổng số lượng câu hỏi.');
+            } else {
+                $('#warningMessageLevel3').text('');
+            }
+        });
+    });
+</script>

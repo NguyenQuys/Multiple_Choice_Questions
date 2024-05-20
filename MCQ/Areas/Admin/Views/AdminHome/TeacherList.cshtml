@@ -1,0 +1,132 @@
+﻿@model IEnumerable<MCQ.Models.User>
+@{
+    ViewData["Title"] = " - Danh sách giảng viên";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<p>
+    <a class="btn btn-primary" asp-action="AddTeacher">Thêm giảng viên mới</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                <p>Mã giảng viên</p>
+            </th>
+            <th>
+                <p>Tên</p>
+            </th>
+            <th>
+                <p>Ngày sinh</p>
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th>
+                <p>Số điện thoại</p>
+            </th>
+            <th>
+                <p>Chặn</p>
+            </th>
+            <th>
+                <p>Tùy chọn</p>
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IdUser)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DateOfBirth)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Email)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PhoneNumber)
+                </td>
+                <td>
+                    <input data-id="@item.IdUser" type="checkbox" @(item.Hide ? "checked" : "") onchange="updateHideStatus(this)">
+                </td>
+                <td>
+                    <a class="btn btn-primary" asp-action="UpdateTeacher" asp-route-id="@item.IdUser">Chỉnh sửa</a> |
+                    <a class="btn btn-danger" onclick="DeleteTeacher('@item.IdUser')">Xóa</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<!-- Include Toastr JavaScript and jQuery -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css">
+<script>
+    function updateHideStatus(checkbox) {
+        var userIdBlock = checkbox.getAttribute('data-id');
+        var isChecked = checkbox.checked;
+
+        toastr.options.positionClass = 'toast-bottom-right';
+
+        $.ajax({
+            type: "POST",
+            url: "/Admin/BlockTeacher",
+            data: { id: userIdBlock, value: isChecked },
+            success: function (response) {
+                toastr.success("Cập nhật trạng thái thành công!");
+            },
+            error: function () {
+                toastr.error("Đã xảy ra lỗi khi cập nhật trạng thái ẩn.");
+            }
+        });
+    }
+
+    function DeleteTeacher(userId) {
+        Swal.fire({
+            title: "Bạn có chắc muốn xóa giảng viên này không?",
+            text: "Bạn sẽ không thể khôi phục được!",
+            icon: "warning",
+            showCancelButton: true,
+            confirmButtonColor: "#3085d6",
+            confirmButtonText: "Chắc chắn xóa!",
+            cancelButtonColor: "red",
+            cancelButtonText: "Hủy"
+        }).then((result) => {
+            if (result.isConfirmed) {
+                $.ajax({
+                    type: "POST",
+                    url: "/Admin/DeleteTeacher",
+                    data: { id: userId },
+                    success: function (response) {
+                        Swal.fire({
+                            title: "Thành công!",
+                            text: "Xóa giảng viên thành công",
+                            icon: "success"
+                        }).then((result) => {
+                            // Reload the page after successful deletion
+                            if (result.isConfirmed) {
+                                location.reload();
+                            }
+                        });
+                    },
+                    error: function () {
+                        Swal.fire({
+                            title: "Error!",
+                            text: "An error occurred while deleting.",
+                            icon: "error"
+                        });
+                    }
+                });
+            }
+        });
+    }
+</script>

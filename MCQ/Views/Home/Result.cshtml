@@ -1,0 +1,83 @@
+﻿@model MCQ.Models.Subject
+@{
+    ViewData["Title"] = "Kết quả bài kiểm tra";
+    Layout = "~/Views/Shared/_LayoutTest.cshtml";
+}
+
+<script type="text/javascript">
+    // Ngăn chặn việc sử dụng nút quay lại trên trình duyệt
+    window.history.forward();
+
+    function preventBack() {
+        window.history.forward();
+    }
+
+    $(document).ready(function () {
+        window.addEventListener('popstate', function (event) {
+            preventBack();
+        });
+    });
+</script>
+
+<style>
+    table {
+        font-family: Arial, sans-serif;
+        border-collapse: collapse;
+        width: 100%;
+    }
+
+    td, th {
+        border: 1px solid #dddddd;
+        padding: 8px;
+        text-align: center;
+    }
+
+    th {
+        background-color: lightgrey;
+    }
+</style>
+
+<div class="container mt-4">
+    <h3>Kết quả bài kiểm tra</h3>
+    <h2>@TempData["PassedOrFailed"]</h2>
+
+    @if (Model != null)
+    {
+        <table class="table table-bordered mt-4">
+            <thead class="thead-light">
+                <tr>
+                    <th>Level</th>
+                    <th>Kết quả</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>1</td>
+                    <td>@(TempData["amountRightLevel1"] == null ? "0" : TempData["amountRightLevel1"]) / @(Model.AmountQuestionLevel1 == null ? "0" : Model.AmountQuestionLevel1)</td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>@(TempData["amountRightLevel2"] == null ? "0" : TempData["amountRightLevel2"]) / @(Model.AmountQuestionLevel2 == null ? "0" : Model.AmountQuestionLevel2)</td>
+                </tr>
+                <tr>
+                    <td>3</td>
+                    <td>@(TempData["amountRightLevel3"] == null ? "0" : TempData["amountRightLevel3"]) / @(Model.AmountQuestionLevel3 == null ? "0" : Model.AmountQuestionLevel3)</td>
+                </tr>
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <p>Không có dữ liệu để hiển thị kết quả.</p>
+    }
+
+    <div class="row mt-4">
+        <div class="col-md-8">
+            <form name="feedback" asp-action="Feedback" class="d-flex">
+                <textarea class="form-control flex-grow-1 mr-2" name="feedback" placeholder="Nhận xét về bài kiểm tra này..."></textarea>
+                <input type="hidden" name="IdResultFromView" value="@TempData["IdResult"]" />
+                <button type="submit" class="btn btn-success mx-2">Gửi Feedback</button>
+            </form>
+        </div>
+    </div>
+</div>

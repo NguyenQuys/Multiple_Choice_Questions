@@ -1,0 +1,63 @@
+﻿@model MCQ.Models.User
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+@{
+    ViewData["Title"] = "Thông tin";
+    if (Model.IdRole == 1)
+    {
+        Layout = "~/Views/Shared/_Layout.cshtml";
+    }
+    else if (Model.IdRole == 2)
+    {
+        Layout = "~/Areas/Teacher/Views/Shared/_LayoutTeacher.cshtml";
+    }
+    else
+    {
+        Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+    }
+}
+
+@if (Model.IdRole == 1) 
+{
+<section>
+    <div>
+        <header style="height:0vh" id="fh5co-header" class="fh5co-cover" role="banner" data-stellar-background-ratio="0.5">
+            <div style="height:15vh;background-color:lightsalmon" class="overlay"></div>
+        </header>
+    </div>
+</section>
+}
+
+<div style="margin-top:100px">
+    <h4>Thông tin cá nhân</h4>
+    <hr />
+    <table class="table">
+        <tr>
+            <th>Tên</th>
+            <td>@Html.DisplayFor(model => model.Name)</td>
+        </tr>
+        <tr>
+            <th>Ngày sinh</th>
+            <td>@Html.DisplayFor(model => model.DateOfBirth)</td>
+        </tr>
+        <tr>
+            <th>Giới tính</th>
+            <td>@(Model.Gender == true ? "Nam" : "Nữ")</td>
+        </tr>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.Email)</th>
+            <td>@Html.DisplayFor(model => model.Email)</td>
+        </tr>
+        <tr>
+            <th>Số điện thoại</th>
+            <td>@Html.DisplayFor(model => model.PhoneNumber)</td>
+        </tr>
+    </table>
+</div>
+<div>
+    <a class="btn btn-primary" asp-action="EditInfo" asp-route-idUser="@Model.IdUser">Chỉnh sửa thông tin</a>
+    <a class="btn btn-primary" asp-action="ChangePassword" asp-route-idUser="@Model.IdUser">Thay đổi mật khẩu</a>
+    <a class="btn btn-primary" href="javascript:history.back()">Quay về</a>
+    
+
+</div>

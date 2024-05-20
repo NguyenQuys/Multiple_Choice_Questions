@@ -1,0 +1,62 @@
+﻿@model MCQ.ViewModel.ExamHistoryViewModel
+
+@{
+    ViewData["Title"] = "- Lịch sử kiểm tra";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@section OrangeArea
+{
+    <div>
+        <header style="height:0vh" id="fh5co-header" class="fh5co-cover" role="banner" data-stellar-background-ratio="0.5">
+            <div style="height:15vh;background-color:lightsalmon" class="overlay"></div>
+        </header>
+    </div>
+}
+<div style="margin-top:100px">
+    <h1>Lịch sử kiểm tra</h1>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    <p>Bài kiểm tra</p>
+                </th>
+                <th>
+                    <p>Điểm</p>
+                </th>
+                <th>
+                    <p>Ngày kiểm tra</p>
+                </th>
+                <th>
+                    <p>Trạng thái</p>
+                </th>
+                <th>
+                    <p>Feedback</p>
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @for (int i = 0; i < Model.Results.Count; i++)
+            {
+                <tr>
+                    <td>
+                        <p>@Model.Subjects[i]</p>
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => Model.Results[i].Score)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => Model.Results[i].ExamDate)
+                    </td>
+                    <td>
+                        <p>@(Model.Results[i].Status == true ? "Đậu" : "Rớt")</p>
+                    </td>
+                    <td>
+                        <p>@(string.IsNullOrEmpty(Model.Results[i].Feedback) ? "Không có Feedback" : Model.Results[i].Feedback)</p>
+                    </td>
+                </tr>
+            }
+        </tbody>
+
+    </table>
+</div>

@@ -1,0 +1,71 @@
+﻿@model MCQ.ViewModel.ExamViewModal
+@{
+    Layout = "~/Views/Shared/_LayoutTest.cshtml";
+}
+@section Ajax {
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <style>
+        #countdown-container {
+            position: fixed;
+            top: 50px;
+            right: 50px;
+            background-color: #f0f0f0;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            font-size: 24px;
+        }
+    </style>
+}
+@{ Html.RenderPartial("_TimerPartial"); }
+
+<div>
+    <h1>Câu hỏi</h1>
+    <img src="~/images/@Model.Question.LinkImage" alt="Question Image" />
+
+    <h2>Đáp án</h2>
+    <form method="post" action="@Url.Action("CheckAnswer")">
+        @foreach (var answer in Model.AnswersList)
+        {
+            <input type="checkbox" name="studentAnswersList" value="@answer.IdAnswer" /> @answer.AnswerTitle <br />
+        }
+        <input type="hidden" name="IdSubject" value="@Model.IdSubjectFVM" />
+        <input type="hidden" name="IdQuestion" value="@Model.Question.IdQuestion" />
+        <input type="submit" value="Tiếp theo" />
+        
+    </form>
+</div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+     
+
+        function checkTimeRemaining() {
+            var hours = parseInt('@TempData["hours"]');
+            var minutes = parseInt('@TempData["minutes"]');
+            var seconds = parseInt('@TempData["seconds"]');
+
+            if (hours === 0 && minutes === 0 && seconds === 0) {
+                $.ajax({
+                    url: '@Url.Action("Result", "Home")',
+                    type: 'GET',
+                    data: { idStudentFCA: 'your_student_id', IdSubject: '@Model.IdSubjectFVM' },
+                    success: function(data) {
+                        updatePage(data);
+                    },
+                    error: function(xhr, textStatus, errorThrown) {
+                        console.log('Error:', errorThrown);
+                    }
+                });
+            }
+        }
+
+        function updatePage(data) {
+            // Cập nhật nội dung trang tùy thuộc vào dữ liệu trả về từ phương thức Result
+            alert('Thời gian đã hết! Bạn sẽ được chuyển hướng đến trang kết quả.');
+            $('body').html(data);
+        }
+
+        setInterval(checkTimeRemaining, 1000);
+    });
+</script>
